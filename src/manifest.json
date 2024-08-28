@@ -1,0 +1,9 @@
+{
+  "Name": "Timberbits",
+  "Version": "0.1",
+  "Id": "Agroqirax.Timberbits",
+  "MinimumGameVersion": "0.0.0.0",
+  "Description": "Adds tim hortons (tm) tim(ber)bits to the IronTeeth",
+  "RequiredMods": [],
+  "OptionalMods": []
+}

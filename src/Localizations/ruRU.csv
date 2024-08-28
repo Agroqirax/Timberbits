@@ -1,0 +1,4 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,древесина,"Displayname of timberbits"
+Good.Timbit.PluralDisplayName,древесные биты,"Displayname of timberbits"
+Message.Death.Need.Timbit,"Бобер умер из-за того, что не ел «куски древесины»","Deatch message timbits lockey"
