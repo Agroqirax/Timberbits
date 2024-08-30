@@ -15,7 +15,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
-## [0.1.0] - 2023-03-05
+## [0.1.1] - 2024-08-30
+
+### Changed
+
+- Mod description
+
+### Fixed
+
+- Changelog
+
+## [0.1] - 2024-08-28
 
 ### Added
 
@@ -41,5 +51,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Temporarily changed AlgaeRation recipe to timberbits until bakery.IronTeeth is added
 
-[unreleased]: https://github.com/agroqirax/timberbits/compare/v1.1.1...HEAD
-[0.1.0]: https://github.com/agroqirax/timberbits/releases/tag/v0.1.0
+[unreleased]: https://github.com/Agroqirax/timberbits/compare/v1.1.1...HEAD
+[0.1.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1.1
+[0.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1

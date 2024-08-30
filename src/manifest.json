@@ -1,9 +1,9 @@
 {
   "Name": "Timberbits",
-  "Version": "0.1",
+  "Version": "0.1.1",
   "Id": "Agroqirax.Timberbits",
   "MinimumGameVersion": "0.0.0.0",
-  "Description": "Adds tim hortons (tm) tim(ber)bits to the IronTeeth",
+  "Description": "Adds tim hortons (tm) tim(ber)bits to the IronTeeth.\nTimbits are a bite-sized dough confection sold at the Canadian-based franchise Tim Hortons.\nTimbits are equivalent to the American 'donut hole', however they are baked, rather than fried.",
   "RequiredMods": [],
   "OptionalMods": []
 }
