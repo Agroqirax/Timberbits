@@ -1,4 +1,6 @@
 ID,Text,Comment
-Good.Timbit.DisplayName,pedaço de madeira,"Displayname of timberbits"
-Good.Timbit.PluralDisplayName,pedaços de madeira,"Displayname of timberbits"
-Message.Death.Need.Timbit,"Castor morreu por não comer timberbits","Deatch message timbits lockey"
+Good.Timbit.DisplayName,pedaço de madeira,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,pedaços de madeira,
+Building.TimHortons.DisplayName,Tim Hortons,"Displayname of building"
+Building.TimHortons.Description,Onde os castores se reúnem para saborear Timberbits feitos na hora,Description of tim hortons building
+Building.TimHortons.FlavorDescription,"""Se você não está mastigando Timberbits, você é mesmo um castor?"" —Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

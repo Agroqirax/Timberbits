@@ -15,6 +15,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [0.1.2] - 2024-08-30
+
+### Added
+
+- Translations:
+  - French translations
+- Loc keys:
+  - Building.TimHortons.DisplayName
+  - Building.TimHortons.Description
+  - Building.TimHortons.FlavorDescription
+- Sprites:
+  - TimHortonsIcon.png
+- Name pool:
+  - Tim, Tim Horton, Timmy, Agroqirax
+
+### Changed
+
+- Sprites:
+  - Timberbit icon
+
 ## [0.1.1] - 2024-08-30
 
 ### Changed
@@ -52,5 +72,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Temporarily changed AlgaeRation recipe to timberbits until bakery.IronTeeth is added
 
 [unreleased]: https://github.com/Agroqirax/timberbits/compare/v1.1.1...HEAD
-[0.1.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1.1
+[0.1.2]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1.2
+[0.1.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1
 [0.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1

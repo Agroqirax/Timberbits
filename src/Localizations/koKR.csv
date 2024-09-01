@@ -1,4 +1,6 @@
 ID,Text,Comment
-Good.Timbit.DisplayName,팀버비트,"Displayname of timberbits"
-Good.Timbit.PluralDisplayName,팀버비트,"Displayname of timberbits"
-Message.Death.Need.Timbit,"비버는 "목재 조각"을 먹지 않아 죽었습니다.","Deatch message timbits lockey"
+Good.Timbit.DisplayName,팀버비트,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,팀버비트,
+Building.TimHortons.DisplayName,Tim Hortons,"Displayname of building"
+Building.TimHortons.Description,비버들이 모여서 갓 만든 팀버비트를 즐기는 곳,Description of tim hortons building
+Building.TimHortons.FlavorDescription,"""Timberbits를 먹지 않는다면, 당신은 비버라고 할 수 없나요?"" —Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
