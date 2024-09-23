@@ -1,0 +1,6 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,odun parçası,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,odun parçaları,
+Building.TimHortons.DisplayName,Tim Hortons,"Displayname of building"
+Building.TimHortons.Description,Kunduzların taze yapılmış Timberbits'in tadını çıkarmak için toplandığı yer,Description of tim hortons building
+Building.TimHortons.FlavorDescription,"""Timberbits yemiyorsan, kunduz musun?"" —Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

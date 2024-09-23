@@ -1,0 +1,6 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,bit de madera,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,Trozos de madera,
+Building.TimHortons.DisplayName,Tim Hortons,"Displayname of building"
+Building.TimHortons.Description,Donde los castores se reúnen para disfrutar de Timberbits recién hechos,Description of tim hortons building
+Building.TimHortons.FlavorDescription,"""Si no estás masticando Timberbits, ¿eres realmente un castor?"" —Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

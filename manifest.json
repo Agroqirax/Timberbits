@@ -1,0 +1,9 @@
+{
+  "Name": "Timberbits",
+  "Version": "0.2.1",
+  "Id": "Agroqirax.Timberbits",
+  "MinimumGameVersion": "0.0.0.0",
+  "Description": "Adds tim hortons tim(ber)bits to both the Folktails and the IronTeeth.\n\nTimbits are a bite-sized dough confection sold at the Canadian-based franchise Tim Hortons.\nTimbits are equivalent to the American 'donut hole', however they are baked, rather than fried.\n\nThe Folktails can produce them in the bakery, using 4 wheat flour and 2 maple syrup.\nThe IronTeeth can produce them in the food factory using 1 canola oil and 3 berries.",
+  "RequiredMods": [],
+  "OptionalMods": []
+}

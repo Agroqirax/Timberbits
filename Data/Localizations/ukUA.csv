@@ -1,0 +1,6 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,тимбербіт,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,тимбербіти,
+Building.TimHortons.DisplayName,Tim Hortons,"Displayname of building"
+Building.TimHortons.Description,"Де збираються бобри, щоб насолодитися свіжоприготовленими Timberbits",Description of tim hortons building
+Building.TimHortons.FlavorDescription,"«Якщо ти не жуєш тімбербітс, ти взагалі бобер?» — Ма' Нгонел","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

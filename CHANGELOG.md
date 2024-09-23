@@ -15,6 +15,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [0.2.1] - 2024-09-23
+
+### Added
+
+- Factions:
+  - Folktails can now enjoy timberbits too!
+- License
+  - Added [LICENSE.md](LICENSE.md) to steam and in latest release
+
+### Fixed
+
+- Recipes:
+  - AlgaeRations are now producable again!
+
+### Changed
+
+- Updated to work with unity workflow
+
 ## [0.1.2] - 2024-08-30
 
 ### Added
@@ -72,6 +90,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Temporarily changed AlgaeRation recipe to timberbits until bakery.IronTeeth is added
 
 [unreleased]: https://github.com/Agroqirax/timberbits/compare/v1.1.1...HEAD
+[0.2.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.2.1
 [0.1.2]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1.2
 [0.1.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1
 [0.1]: https://github.com/Agroqirax/timberbits/releases/tag/v0.1

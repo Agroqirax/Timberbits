@@ -1,0 +1,6 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,木材比特,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,木块,
+Building.TimHortons.DisplayName,Tim Hortons,"Displayname of building"
+Building.TimHortons.Description,海狸们聚集在这里享用新鲜出炉的 Timberbits,Description of tim hortons building
+Building.TimHortons.FlavorDescription,"“如果你不吃 Timberbits，你还是一只海狸吗？” —Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
