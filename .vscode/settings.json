@@ -1,8 +1,76 @@
 {
-  "workbench.colorCustomizations": {
-    "activityBar.background": "#2b2000"
-  },
   "files.exclude": {
     "**/*.meta": true
+  },
+  "simpleChangelog.searchExcludeRegex": "/CHANGELOG.md.meta/",
+  "timberborn-modding-ext.locFiles": [
+    {
+      "path": "Data/Localizations/enUS_Timberbits.csv",
+      "language": "en"
+    },
+    {
+      "path": "Data/Localizations/nlNL_Timberbits.csv",
+      "language": "nl"
+    },
+    {
+      "language": "de",
+      "path": "Data/Localizations/deDE_Timberbits.csv"
+    },
+    {
+      "language": "es",
+      "path": "Data/Localizations/esES_Timberbits.csv"
+    },
+    {
+      "language": "fr",
+      "path": "Data/Localizations/frFR_Timberbits.csv"
+    },
+    {
+      "language": "it",
+      "path": "Data/Localizations/itIT_Timberbits.csv"
+    },
+    {
+      "language": "ja",
+      "path": "Data/Localizations/jaJP_Timberbits.csv"
+    },
+    {
+      "language": "ko",
+      "path": "Data/Localizations/koKR_Timberbits.csv"
+    },
+    {
+      "language": "pl",
+      "path": "Data/Localizations/plPL_Timberbits.csv"
+    },
+    {
+      "language": "pt",
+      "path": "Data/Localizations/ptBR_Timberbits.csv"
+    },
+    {
+      "language": "ru",
+      "path": "Data/Localizations/ruRU_Timberbits.csv"
+    },
+    {
+      "language": "th",
+      "path": "Data/Localizations/thTH_Timberbits.csv"
+    },
+    {
+      "language": "tr",
+      "path": "Data/Localizations/trTR_Timberbits.csv"
+    },
+    {
+      "language": "uk",
+      "path": "Data/Localizations/ukUA_Timberbits.csv"
+    },
+    {
+      "language": "zh-cn",
+      "path": "Data/Localizations/zhCN_Timberbits.csv"
+    },
+    {
+      "language": "zh-tw",
+      "path": "Data/Localizations/zhTW_Timberbits.csv"
+    }
+  ],
+  "timberborn-modding-ext.launchArgs": {
+    "settlementName": "Test-IT",
+    "saveName": "Test-IT"
   }
 }

@@ -1,0 +1,12 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,Timberbit,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,Timberbits,This is a reference to the timbits sold at tim hortons
+Good.BeaverTail.DisplayName,Biberschwanz,Beavertails are a typical canadian snack
+Good.BeaverTail.PluralDisplayName,Biberschwänze,Beavertails are a typical canadian snack
+Need.Timbit.DisplayName,Timberbit,This is a reference to the timbits sold at tim hortons
+Need.Timbit.PluralDisplayName,Timberbits,This is a reference to the timbits sold at tim hortons
+Need.BeaverTail.DisplayName,Biberschwanz,Beavertails are a typical canadian snack
+Need.BeaverTail.PluralDisplayName,Biberschwänze,Beavertails are a typical canadian snack
+Building.TimHortons.DisplayName,Tim Hortons,Tim hortons is a canadian franchise known for their timbits
+Building.TimHortons.Description,"Wo sich Biber versammeln, um frisch zubereitete Timberbits zu genießen",Tim hortons is a canadian franchise known for their timbits
+Building.TimHortons.FlavorDescription,"„Wenn du keine Timberbits isst, bist du dann überhaupt ein Biber?“ –Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

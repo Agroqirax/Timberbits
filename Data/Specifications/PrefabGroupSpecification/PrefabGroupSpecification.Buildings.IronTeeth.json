@@ -1,0 +1,4 @@
+{
+  "Id": "Buildings.IronTeeth",
+  "Paths#append": ["Buildings/Food/TimHortons/TimHortons.IronTeeth"]
+}

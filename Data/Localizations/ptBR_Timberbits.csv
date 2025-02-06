@@ -1,0 +1,12 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,Madeira,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,Pedaços de madeira,This is a reference to the timbits sold at tim hortons
+Good.BeaverTail.DisplayName,Rabo de castor,Beavertails are a typical canadian snack
+Good.BeaverTail.PluralDisplayName,rabos de castor,Beavertails are a typical canadian snack
+Need.Timbit.DisplayName,Madeira,This is a reference to the timbits sold at tim hortons
+Need.Timbit.PluralDisplayName,Pedaços de madeira,This is a reference to the timbits sold at tim hortons
+Need.BeaverTail.DisplayName,Rabo de castor,Beavertails are a typical canadian snack
+Need.BeaverTail.PluralDisplayName,rabos de castor,Beavertails are a typical canadian snack
+Building.TimHortons.DisplayName,Tim Hortons,Tim hortons is a canadian franchise known for their timbits
+Building.TimHortons.Description,Onde os castores se reúnem para saborear Timberbits recém-feitos,Tim hortons is a canadian franchise known for their timbits
+Building.TimHortons.FlavorDescription,"""Se você não está mastigando Timberbits, você é mesmo um castor?"" —Mãe Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

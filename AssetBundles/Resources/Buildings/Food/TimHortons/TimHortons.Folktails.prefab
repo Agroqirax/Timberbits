@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1023756723993583
+--- !u!1 &1076590799350139
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,27 +8,183 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4989145810539147}
-  - component: {fileID: 114981766054629126}
-  - component: {fileID: 114689659959904002}
-  - component: {fileID: 114899257129043172}
-  - component: {fileID: 114112675382885105}
-  - component: {fileID: 114351212448983857}
-  - component: {fileID: 114299602593727196}
-  - component: {fileID: 114090699808053147}
-  - component: {fileID: 114182687447177548}
-  - component: {fileID: 114983009218907510}
-  - component: {fileID: 114898892053007123}
-  - component: {fileID: 114222916710204184}
-  - component: {fileID: 114730347130961045}
-  - component: {fileID: 114319678632735910}
-  - component: {fileID: 114194252979652370}
-  - component: {fileID: 114350934728387756}
-  - component: {fileID: 114485338854244310}
-  - component: {fileID: 114394933833815293}
-  - component: {fileID: 114405552006200877}
-  - component: {fileID: 114526449429925180}
-  - component: {fileID: 114471290832460462}
+  - component: {fileID: 4869854008814816}
+  - component: {fileID: 65728170082238944}
+  - component: {fileID: 65651648205809717}
+  - component: {fileID: 114510350158430817}
+  m_Layer: 0
+  m_Name: ConstructionStage0
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4869854008814816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076590799350139}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4488890504205797}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &65728170082238944
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076590799350139}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2, y: 1.1896182, z: 3}
+  m_Center: {x: 1, y: 0.5948091, z: 1.5}
+--- !u!65 &65651648205809717
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076590799350139}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2, y: 0.53992593, z: 0.9943757}
+  m_Center: {x: 1, y: 1.4529128, z: 1.9737952}
+--- !u!114 &114510350158430817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1076590799350139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1942782917, guid: 40833514e55bcf2135fbcf9411078554, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _modelName: Buildings/Food/Bakery/Bakery.Folktails.ConstructionStage0.Model
+--- !u!1 &1108892447302521
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4981104030008638}
+  - component: {fileID: 65504240831630296}
+  - component: {fileID: 114709282009372393}
+  m_Layer: 0
+  m_Name: ConstructionSite2x3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4981104030008638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108892447302521}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4488890504205797}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &65504240831630296
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108892447302521}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2, y: 0.1, z: 3}
+  m_Center: {x: 1, y: 0.05, z: 1.5}
+--- !u!114 &114709282009372393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108892447302521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1942782917, guid: 40833514e55bcf2135fbcf9411078554, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _modelName: ConstructionSites\ConstructionSite2x3\ConstructionSite2x3.Model
+--- !u!1 &1159885101807283
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4623344546840711}
+  - component: {fileID: 114908331560790440}
+  - component: {fileID: 114008799486216368}
+  - component: {fileID: 114395377710475249}
+  - component: {fileID: 114898093230799700}
+  - component: {fileID: 114338394327342290}
+  - component: {fileID: 114711458153550949}
+  - component: {fileID: 114529585655444104}
+  - component: {fileID: 114267943368234282}
+  - component: {fileID: 114212880668416829}
+  - component: {fileID: 114681563812178859}
+  - component: {fileID: 114978104849684856}
+  - component: {fileID: 114871426672280240}
+  - component: {fileID: 114772467556851898}
+  - component: {fileID: 114819541870770223}
+  - component: {fileID: 114780730133773198}
+  - component: {fileID: 114524047841352995}
+  - component: {fileID: 114759301930555809}
+  - component: {fileID: 114490417355115524}
+  - component: {fileID: 114195989964786238}
+  - component: {fileID: 114255715554889254}
   m_Layer: 0
   m_Name: TimHortons.Folktails
   m_TagString: Untagged
@@ -36,30 +192,30 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4989145810539147
+--- !u!4 &4623344546840711
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4108605273359596}
-  - {fileID: 4696431669327172}
+  - {fileID: 4479977608338718}
+  - {fileID: 4488890504205797}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
---- !u!114 &114981766054629126
+--- !u!114 &114908331560790440
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -790041461, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
@@ -78,13 +234,13 @@ MonoBehaviour:
   _placeFinished: 0
   _finishableWithBeaversOnSite: 0
   _drawRangeBoundsOnIt: 0
---- !u!114 &114689659959904002
+--- !u!114 &114008799486216368
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1596376676, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
@@ -94,13 +250,13 @@ MonoBehaviour:
   _unfinishedModelName: '#Unfinished'
   _finishedUncoveredModelName: 
   _constructionModeModel: 0
---- !u!114 &114899257129043172
+--- !u!114 &114395377710475249
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -1496982017, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
@@ -113,51 +269,52 @@ MonoBehaviour:
   _workerTypeUnlockCosts:
   - _workerType: Bot
     _scienceCost: 750
---- !u!114 &114112675382885105
+--- !u!114 &114898093230799700
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 279545971, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _productionRecipeIds:
-  - Timbit
---- !u!114 &114351212448983857
+  - TimbitFT
+  - BeavertailFT
+--- !u!114 &114338394327342290
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1933283616, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114299602593727196
+--- !u!114 &114711458153550949
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -455950880, guid: 71874a96862cca0445075c2f72e705bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114090699808053147
+--- !u!114 &114529585655444104
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 9237227, guid: dd1baa4f323651ee41781eb84b2b1960, type: 3}
@@ -169,13 +326,13 @@ MonoBehaviour:
     _inanimate: 0
     _randomizeYRotation: 0
     _waterSlot: 0
---- !u!114 &114182687447177548
+--- !u!114 &114267943368234282
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -730909465, guid: bcb85dd25e41826ab5a7dea12cff2430, type: 3}
@@ -188,13 +345,13 @@ MonoBehaviour:
   _limitedCapacityUnfinished: 0
   _capacityUnfinished: 0
   _throttledExitUnfinished: 0
---- !u!114 &114983009218907510
+--- !u!114 &114212880668416829
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -731835049, guid: b5f268a4cb31a93ed707a95d3a502b0e, type: 3}
@@ -204,13 +361,13 @@ MonoBehaviour:
   _backwardCompatiblePrefabNames: []
   _requiredFeatureToggle: 
   _disablingFeatureToggle: 
---- !u!114 &114898892053007123
+--- !u!114 &114681563812178859
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1800879565, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
@@ -369,13 +526,13 @@ MonoBehaviour:
   _baseZ: 0
   _overridable: 0
   _flippable: 1
---- !u!114 &114222916710204184
+--- !u!114 &114978104849684856
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1794062130, guid: 1bd6ccb667024f9c2b77daf7f62a4eed, type: 3}
@@ -383,13 +540,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _localAccess: {x: 1.5, y: 0.04353439, z: 1.502709}
   _forceOneFinalAccess: 0
---- !u!114 &114730347130961045
+--- !u!114 &114871426672280240
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 200649111, guid: 6db671ca2a10521151a0623ea7cc13c9, type: 3}
@@ -408,13 +565,13 @@ MonoBehaviour:
     _connectableDirections: 24
   - _coordinates: {x: 1, y: 2, z: 0}
     _connectableDirections: 28
---- !u!114 &114319678632735910
+--- !u!114 &114772467556851898
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -871492198, guid: c1ff95bb5ae0e8b420075ec58add6f36, type: 3}
@@ -428,25 +585,25 @@ MonoBehaviour:
     _hasCustomPivot: 0
     _coordinates: {x: 0, y: 0, z: 0}
   _devModeTool: 0
---- !u!114 &114194252979652370
+--- !u!114 &114819541870770223
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -598504670, guid: 6e68475ee52ce568acbd493b99ce126d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114350934728387756
+--- !u!114 &114780730133773198
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 652365310, guid: b6b9d4cc3090b6fceb2eb6438dd271f1, type: 3}
@@ -456,25 +613,25 @@ MonoBehaviour:
   _descriptionLocKey: Building.TimHortons.Description
   _flavorDescriptionLocKey: Building.TimHortons.FlavorDescription
   _imagePath: Buildings/Food/TimHortons/TimHortonsIcon
---- !u!114 &114485338854244310
+--- !u!114 &114524047841352995
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1700995066, guid: 9d9a15fd937d3c3e3eda286523371813, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114394933833815293
+--- !u!114 &114759301930555809
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1824652327, guid: 603f82a4140498c516499d72a9d347b6, type: 3}
@@ -482,25 +639,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _attachmentIds:
   - Smoke.Bakery.Folktails
---- !u!114 &114405552006200877
+--- !u!114 &114490417355115524
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -1912839643, guid: 603f82a4140498c516499d72a9d347b6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114526449429925180
+--- !u!114 &114195989964786238
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -1553071738, guid: 0fe512d2d979abc43670e729a24e15fb, type: 3}
@@ -508,13 +665,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _attachmentIds:
   - Smoke.Bakery.Folktails
---- !u!114 &114471290832460462
+--- !u!114 &114255715554889254
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1023756723993583}
+  m_GameObject: {fileID: 1159885101807283}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 437054131, guid: 644c1295076bbdbb604b7f96aa6be9c2, type: 3}
@@ -522,7 +679,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _progressThresholds:
   - 0
---- !u!1 &1116796358469963
+--- !u!1 &1476814048745023
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -530,74 +687,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4181699470518601}
-  - component: {fileID: 65609621106239088}
-  - component: {fileID: 114182118224200145}
-  m_Layer: 0
-  m_Name: ConstructionSite2x3
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4181699470518601
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1116796358469963}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4696431669327172}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &65609621106239088
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1116796358469963}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 2, y: 0.1, z: 3}
-  m_Center: {x: 1, y: 0.05, z: 1.5}
---- !u!114 &114182118224200145
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1116796358469963}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1942782917, guid: 40833514e55bcf2135fbcf9411078554, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _modelName: ConstructionSites\ConstructionSite2x3\ConstructionSite2x3.Model
---- !u!1 &1284345004724927
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4696431669327172}
+  - component: {fileID: 4488890504205797}
   m_Layer: 0
   m_Name: '#Unfinished'
   m_TagString: Untagged
@@ -605,24 +695,24 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4696431669327172
+--- !u!4 &4488890504205797
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1284345004724927}
+  m_GameObject: {fileID: 1476814048745023}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 4181699470518601}
-  - {fileID: 4068400533395085}
-  m_Father: {fileID: 4989145810539147}
+  - {fileID: 4981104030008638}
+  - {fileID: 4869854008814816}
+  m_Father: {fileID: 4623344546840711}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1355379647919658
+--- !u!1 &1519044205635296
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -630,11 +720,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4108605273359596}
-  - component: {fileID: 65515479702550398}
-  - component: {fileID: 65431081281318117}
-  - component: {fileID: 136416280640862542}
-  - component: {fileID: 114010653618448851}
+  - component: {fileID: 4479977608338718}
+  - component: {fileID: 65113484292634011}
+  - component: {fileID: 65755168760942032}
+  - component: {fileID: 136427536155262288}
+  - component: {fileID: 114026185314120720}
   m_Layer: 0
   m_Name: '#Finished'
   m_TagString: Untagged
@@ -642,28 +732,28 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4108605273359596
+--- !u!4 &4479977608338718
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1355379647919658}
+  m_GameObject: {fileID: 1519044205635296}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 4989145810539147}
+  m_Father: {fileID: 4623344546840711}
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
---- !u!65 &65515479702550398
+--- !u!65 &65113484292634011
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1355379647919658}
+  m_GameObject: {fileID: 1519044205635296}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -678,13 +768,13 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2, y: 1.1896182, z: 3}
   m_Center: {x: 1, y: 0.5948091, z: 1.5}
---- !u!65 &65431081281318117
+--- !u!65 &65755168760942032
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1355379647919658}
+  m_GameObject: {fileID: 1519044205635296}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -699,13 +789,13 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 2, y: 0.822876, z: 1.4705732}
   m_Center: {x: 1, y: 1.311438, z: 1.9737953}
---- !u!136 &136416280640862542
+--- !u!136 &136427536155262288
 CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1355379647919658}
+  m_GameObject: {fileID: 1519044205635296}
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -722,105 +812,16 @@ CapsuleCollider:
   m_Height: 2.4729223
   m_Direction: 1
   m_Center: {x: 1, y: 2.1152244, z: 2.0029087}
---- !u!114 &114010653618448851
+--- !u!114 &114026185314120720
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1355379647919658}
+  m_GameObject: {fileID: 1519044205635296}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -1942782917, guid: 40833514e55bcf2135fbcf9411078554, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _modelName: Buildings\Food\Bakery\Bakery.Folktails.Model
---- !u!1 &1789982086049864
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4068400533395085}
-  - component: {fileID: 65534483942753288}
-  - component: {fileID: 65124704110690866}
-  - component: {fileID: 114480525385423926}
-  m_Layer: 0
-  m_Name: ConstructionStage0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4068400533395085
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1789982086049864}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 4696431669327172}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &65534483942753288
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1789982086049864}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 2, y: 1.1896182, z: 3}
-  m_Center: {x: 1, y: 0.5948091, z: 1.5}
---- !u!65 &65124704110690866
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1789982086049864}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 2, y: 0.53992593, z: 0.9943757}
-  m_Center: {x: 1, y: 1.4529128, z: 1.9737952}
---- !u!114 &114480525385423926
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1789982086049864}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1942782917, guid: 40833514e55bcf2135fbcf9411078554, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _modelName: Buildings/Food/Bakery/Bakery.Folktails.ConstructionStage0.Model

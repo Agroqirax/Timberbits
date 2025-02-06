@@ -1,10 +1,10 @@
 {
-  "Id": "Timbit",
+  "Id": "BeaverTail",
   "BackwardCompatibleIds": [],
   "Order": 80,
   "NeedGroupId": "Nutrition",
   "CharacterType": "Beaver",
-  "DisplayNameLocKey": "Need.Timbit.PluralDisplayName",
+  "DisplayNameLocKey": "Need.BeaverTail.PluralDisplayName",
   "StartingValue": 0.0,
   "MinimumValue": 0.0,
   "MaximumValue": 1.0,

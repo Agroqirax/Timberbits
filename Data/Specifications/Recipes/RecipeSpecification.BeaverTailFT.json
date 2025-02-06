@@ -1,0 +1,35 @@
+{
+  "Id": "BeavertailFT",
+  "DisplayLocKey": "Good.BeaverTail.PluralDisplayName",
+  "CycleDurationInHours": 1.5,
+  "CyclesCapacity": 20,
+  "Ingredients": [
+    {
+      "Good": {
+        "Id": "WheatFlour"
+      },
+      "Amount": 4
+    },
+    {
+      "Good": {
+        "Id": "MapleSyrup"
+      },
+      "Amount": 2
+    }
+  ],
+  "Products": [
+    {
+      "Good": {
+        "Id": "BeaverTail"
+      },
+      "Amount": 10
+    }
+  ],
+  "ProducedSciencePoints": 0,
+  "Fuel": {
+    "Id": "Log"
+  },
+  "CyclesFuelLasts": 10,
+  "FuelCapacity": 5,
+  "Icon": "Sprites/Goods/BeaverTailIcon"
+}

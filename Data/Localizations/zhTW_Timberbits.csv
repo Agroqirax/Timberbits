@@ -1,0 +1,12 @@
+ID,Text,Comment
+Good.Timbit.DisplayName,廷伯比特,This is a reference to the timbits sold at tim hortons
+Good.Timbit.PluralDisplayName,木材比特,This is a reference to the timbits sold at tim hortons
+Good.BeaverTail.DisplayName,海狸尾,Beavertails are a typical canadian snack
+Good.BeaverTail.PluralDisplayName,海狸尾巴,Beavertails are a typical canadian snack
+Need.Timbit.DisplayName,廷伯比特,This is a reference to the timbits sold at tim hortons
+Need.Timbit.PluralDisplayName,木材比特,This is a reference to the timbits sold at tim hortons
+Need.BeaverTail.DisplayName,海狸尾,Beavertails are a typical canadian snack
+Need.BeaverTail.PluralDisplayName,海狸尾巴,Beavertails are a typical canadian snack
+Building.TimHortons.DisplayName,提姆·霍頓斯,Tim hortons is a canadian franchise known for their timbits
+Building.TimHortons.Description,海狸聚集在一起享用新鮮製作的 Timberbits 的地方,Tim hortons is a canadian franchise known for their timbits
+Building.TimHortons.FlavorDescription,“如果你不咀嚼Timberbits，你還是海狸嗎？” ——恩戈內爾女士,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
