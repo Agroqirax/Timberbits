@@ -1,12 +1,12 @@
 ID,Text,Comment
 Good.Timbit.DisplayName,Timberbit,This is a reference to the timbits sold at tim hortons
 Good.Timbit.PluralDisplayName,Houtbeetjes,This is a reference to the timbits sold at tim hortons
-Good.BeaverTail.DisplayName,Beverstaart,Beavertails are a typical canadian snack
-Good.BeaverTail.PluralDisplayName,Beverstaarten,Beavertails are a typical canadian snack
+Good.Beavertail.DisplayName,Beverstaart,Beavertails are a typical canadian snack
+Good.Beavertail.PluralDisplayName,Beverstaarten,Beavertails are a typical canadian snack
 Need.Timbit.DisplayName,Timberbit,This is a reference to the timbits sold at tim hortons
 Need.Timbit.PluralDisplayName,Houtbeetjes,This is a reference to the timbits sold at tim hortons
-Need.BeaverTail.DisplayName,Beverstaart,Beavertails are a typical canadian snack
-Need.BeaverTail.PluralDisplayName,Beverstaarten,Beavertails are a typical canadian snack
+Need.Beavertail.DisplayName,Beverstaart,Beavertails are a typical canadian snack
+Need.Beavertail.PluralDisplayName,Beverstaarten,Beavertails are a typical canadian snack
 Building.TimHortons.DisplayName,Tim Hortons,Tim hortons is a canadian franchise known for their timbits
 Building.TimHortons.Description,Waar bevers samenkomen om te genieten van vers gemaakte Timberbits,Tim hortons is a canadian franchise known for their timbits
 Building.TimHortons.FlavorDescription,"""Als je geen Timberbits kauwt, ben je dan wel een bever?"" —Ma'Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

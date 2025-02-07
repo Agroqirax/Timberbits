@@ -1,12 +1,12 @@
 ID,Text,Comment
 Good.Timbit.DisplayName,팀버비트,This is a reference to the timbits sold at tim hortons
 Good.Timbit.PluralDisplayName,팀버비트,This is a reference to the timbits sold at tim hortons
-Good.BeaverTail.DisplayName,비버테일,Beavertails are a typical canadian snack
-Good.BeaverTail.PluralDisplayName,비버테일,Beavertails are a typical canadian snack
+Good.Beavertail.DisplayName,비버테일,Beavertails are a typical canadian snack
+Good.Beavertail.PluralDisplayName,비버테일,Beavertails are a typical canadian snack
 Need.Timbit.DisplayName,팀버비트,This is a reference to the timbits sold at tim hortons
 Need.Timbit.PluralDisplayName,팀버비트,This is a reference to the timbits sold at tim hortons
-Need.BeaverTail.DisplayName,비버테일,Beavertails are a typical canadian snack
-Need.BeaverTail.PluralDisplayName,비버테일,Beavertails are a typical canadian snack
+Need.Beavertail.DisplayName,비버테일,Beavertails are a typical canadian snack
+Need.Beavertail.PluralDisplayName,비버테일,Beavertails are a typical canadian snack
 Building.TimHortons.DisplayName,팀 호튼스,Tim hortons is a canadian franchise known for their timbits
 Building.TimHortons.Description,갓 만든 팀버빗을 즐기기 위해 비버들이 모이는 곳,Tim hortons is a canadian franchise known for their timbits
 Building.TimHortons.FlavorDescription,"""팀버비트를 먹지 않는다면, 당신은 비버라도 되는 겁니까?"" —마 응고넬","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

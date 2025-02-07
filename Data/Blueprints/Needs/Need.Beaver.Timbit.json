@@ -1,0 +1,21 @@
+{
+  "NeedSpec": {
+    "Id": "Timbit",
+    "BackwardCompatibleIds": [],
+    "Order": 80,
+    "NeedGroupId": "Nutrition",
+    "CharacterType": "Beaver",
+    "DisplayNameLocKey": "Need.Timbit.PluralDisplayName",
+    "StartingValue": 0.0,
+    "MinimumValue": 0.0,
+    "MaximumValue": 1.0,
+    "DailyDelta": -0.05,
+    "ImportanceMultiplier": 1.0,
+    "CriticalNeedType": {
+      "Value": "None"
+    },
+    "Effectiveness": 1.0,
+    "Wastable": true,
+    "FavorableWellbeing": 3
+  }
+}

@@ -1,12 +1,12 @@
 ID,Text,Comment
 Good.Timbit.DisplayName,Kereste,This is a reference to the timbits sold at tim hortons
 Good.Timbit.PluralDisplayName,Kereste parçaları,This is a reference to the timbits sold at tim hortons
-Good.BeaverTail.DisplayName,Kunduz kuyruğu,Beavertails are a typical canadian snack
-Good.BeaverTail.PluralDisplayName,Kunduz kuyrukları,Beavertails are a typical canadian snack
+Good.Beavertail.DisplayName,Kunduz kuyruğu,Beavertails are a typical canadian snack
+Good.Beavertail.PluralDisplayName,Kunduz kuyrukları,Beavertails are a typical canadian snack
 Need.Timbit.DisplayName,Kereste,This is a reference to the timbits sold at tim hortons
 Need.Timbit.PluralDisplayName,Kereste parçaları,This is a reference to the timbits sold at tim hortons
-Need.BeaverTail.DisplayName,Kunduz kuyruğu,Beavertails are a typical canadian snack
-Need.BeaverTail.PluralDisplayName,Kunduz kuyrukları,Beavertails are a typical canadian snack
+Need.Beavertail.DisplayName,Kunduz kuyruğu,Beavertails are a typical canadian snack
+Need.Beavertail.PluralDisplayName,Kunduz kuyrukları,Beavertails are a typical canadian snack
 Building.TimHortons.DisplayName,Tim Hortons,Tim hortons is a canadian franchise known for their timbits
 Building.TimHortons.Description,Kunduzların taze yapılmış Timberbit'lerin tadını çıkarmak için toplandığı yer,Tim hortons is a canadian franchise known for their timbits
 Building.TimHortons.FlavorDescription,"""Eğer Timberbits'i yemiyorsan kunduz musun?"" —Ma' Ngonel","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."

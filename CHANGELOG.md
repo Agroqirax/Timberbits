@@ -15,6 +15,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [0.3.0] - 2025-02-06
+
+### Added
+
+- Support for U7 (`Append Vanilla Resources` is not updated yet, so switched to Foodfactory clone instead, may break old saves)
+
+## [0.2.2] - 2025-02-06
+
+### Added
+
+- Beavertails
+
 ## [0.2.1] - 2024-09-23
 
 ### Added

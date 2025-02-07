@@ -1,0 +1,29 @@
+{
+  "RecipeSpec": {
+    "Id": "BeavertailIT",
+    "DisplayLocKey": "Good.Timbit.PluralDisplayName",
+    "CycleDurationInHours": 1.5,
+    "CyclesCapacity": 20,
+    "Ingredients": [
+      {
+        "Id": "CanolaOil",
+        "Amount": 1
+      },
+      {
+        "Id": "Berries",
+        "Amount": 3
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Beavertail",
+        "Amount": 10
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "Log",
+    "CyclesFuelLasts": 10,
+    "FuelCapacity": 5,
+    "Icon": "Sprites/Goods/TimbitIcon"
+  }
+}

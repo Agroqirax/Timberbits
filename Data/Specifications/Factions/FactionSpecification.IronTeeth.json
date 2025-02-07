@@ -1,5 +1,0 @@
-{
-  "Id": "IronTeeth",
-  "Needs#append": ["Timbit", "BeaverTail"],
-  "Goods#append": ["Timbit", "BeaverTail"]
-}

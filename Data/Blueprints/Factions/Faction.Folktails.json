@@ -1,0 +1,13 @@
+{
+  "FactionSpec": {
+    "Id": "Folktails",
+    "Needs#append": [
+      "Timbit",
+      "Beavertail"
+    ],
+    "Goods#append": [
+      "Timbit",
+      "Beavertail"
+    ]
+  }
+}
