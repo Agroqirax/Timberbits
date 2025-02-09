@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Support for U7 (`Append Vanilla Resources` is not updated yet, so switched to Foodfactory clone instead, may break old saves)
+- Support for U7
 
 ## [0.2.2] - 2025-02-06
 
