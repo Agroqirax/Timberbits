@@ -5,12 +5,12 @@
   "simpleChangelog.searchExcludeRegex": "/CHANGELOG.md.meta/",
   "timberborn-modding-ext.locFiles": [
     {
-      "path": "Data/Localizations/enUS_Timberbits.csv",
-      "language": "en"
+      "language": "en",
+      "path": "Data/Localizations/enUS_Timberbits.csv"
     },
     {
-      "path": "Data/Localizations/nlNL_Timberbits.csv",
-      "language": "nl"
+      "language": "nl",
+      "path": "Data/Localizations/nlNL_Timberbits.csv"
     },
     {
       "language": "de",
